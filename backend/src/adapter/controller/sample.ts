@@ -1,4 +1,4 @@
-import { RouterContext, helpers } from "../../deps.ts";
+import { RouterContext, helpers } from "../../../deps.ts";
 
 export const taskHandler = {
   getAll(ctx: RouterContext) {

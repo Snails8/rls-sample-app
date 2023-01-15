@@ -1,5 +1,5 @@
 import { Router, Context } from "../../deps.ts";
-import { taskHandler } from "../adapter/sample.ts";
+import { taskHandler } from "../adapter/controller/sample.ts";
 
 const router = new Router();
 
